@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Panic</string>
+    <string name="forgetPass"><b>Forget password?</b></string>
+</resources>
